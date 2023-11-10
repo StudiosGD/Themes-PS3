@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <infotable>
+    <info name="GD theme " icon="Button_defaul_1-removebg-preview (58) (4).png" url="undefined" author="GDstudios" authoricon="Button_defaul_1-removebg-preview (58) (4).png" genre="undefined" version="1" comment="HOLA 2.2 &#xD;&#xA;Built using PS3 Theme Builder" />
+    <localizedinfo locale="es" name="GD Theme" url="undefined" author="GDstudios" genre="undefined" version="1" comment="Hola 2.2" />
+  </infotable>
+  <setable>
+    <se id="se_optionmenu" left="D Button.vag" right="D Button.vag" />
+    <se id="se_system_ok" left="O button.vag" right="O button.vag" />
+    <se id="se_cancel" left="hola.vag" right="hola.vag" />
+    <se id="se_cursor" left="D Button.vag" right="D Button.vag" />
+    <se id="se_decide" left="O button.vag" right="O button.vag" />
+  </setable>
+  <icontable>
+    <icon id="icon_user" src="Button_defaul_1-removebg-preview (1).png" />
+    <icon id="icon_setting" src="Button_defaul_1-removebg-preview (52).png" />
+    <icon id="icon_photo" src="Button_defaul_1-removebg-preview (50).png" />
+    <icon id="icon_music" src="Button_defaul_1-removebg-preview (21).png" />
+    <icon id="icon_video" src="Button_defaul_1-removebg-preview (47).png" />
+    <icon id="icon_game" src="Button_defaul_1-removebg-preview (45).png" />
+    <icon id="icon_network" src="Button_defaul_1-removebg-preview (16).png" />
+    <icon id="icon_friend" src="Button_defaul_1-removebg-preview (40).png" />
+    <icon id="icon_tv" src="Button_defaul_1-removebg-preview (42).png" />
+    <icon id="icon_newuser" src="Create Cuenta.png" />
+    <icon id="icon_update" src="Button_defaul_1-removebg-preview (2).png" />
+    <icon id="icon_game_setting" src="Button_defaul_1-removebg-preview (3).png" />
+    <icon id="icon_bdvd_setting" src="Button_defaul_1-removebg-preview (4).png" />
+    <icon id="icon_music_setting" src="Button_defaul_1-removebg-preview (5).png" />
+    <icon id="icon_chat_setting" src="Button_defaul_1-removebg-preview (55).png" />
+    <icon id="icon_system_setting" src="Button_defaul_1-removebg-preview (6).png" />
+    <icon id="icon_theme_setting" src="Button_defaul_1-removebg-preview (7).png" />
+    <icon id="icon_datetime_setting" src="Button_defaul_1-removebg-preview (56).png" />
+    <icon id="icon_accessory" src="Button_defaul_1-removebg-preview (9).png" />
+    <icon id="icon_printer_setting" src="Button_defaul_1-removebg-preview (10).png" />
+    <icon id="icon_display_setting" src="Button_defaul_1-removebg-preview (11).png" />
+    <icon id="icon_sound_setting" src="Button_defaul_1-removebg-preview (5).png" />
+    <icon id="icon_security_setting" src="Button_defaul_1-removebg-preview (13).png" />
+    <icon id="icon_remoteplay_setting" src="Button_defaul_1-removebg-preview (42).png" />
+    <icon id="icon_network_setting" src="Button_defaul_1-removebg-preview (30).png" />
+    <icon id="icon_setting_item" src="Button_defaul_1-removebg-preview (17).png" />
+    <icon id="icon_photo_default" src="Button_defaul_1-removebg-preview (20).png" />
+    <icon id="icon_photo_album_default" src="Button_defaul_1-removebg-preview (20).png" />
+    <icon id="icon_music_default" src="Button_defaul_1-removebg-preview (12).png" />
+    <icon id="icon_music_album_default" src="Button_defaul_1-removebg-preview (12).png" />
+    <icon id="icon_video_default" src="Button_defaul_1-removebg-preview (48).png" />
+    <icon id="icon_video_album_default" src="Button_defaul_1-removebg-preview (48).png" />
+    <icon id="icon_mediaserver_search" src="Button_defaul_1-removebg-preview (42).png" />
+    <icon id="icon_ms" src="Button_defaul_1-removebg-preview (58).png" />
+    <icon id="icon_sd" src="Button_defaul_1-removebg-preview (47).png" />
+    <icon id="icon_gamedata" src="Button_defaul_1-removebg-preview (22).png" />
+    <icon id="icon_savedata" src="Button_defaul_1-removebg-preview (27).png" />
+    <icon id="icon_vmc" src="Button_defaul_1-removebg-preview (24).png" />
+    <icon id="icon_newvmc" src="Button_defaul_1-removebg-preview (25).png" />
+    <icon id="icon_onlinemanual" src="Button_defaul_1-removebg-preview (15).png" />
+    <icon id="icon_remoteplay" src="Button_defaul_1-removebg-preview (57).png" />
+    <icon id="icon_browser" src="Button_defaul_1-removebg-preview (44).png" />
+    <icon id="icon_download" src="Button_defaul_1-removebg-preview (43).png" />
+    <icon id="icon_accountmanage" src="Button_defaul_1-removebg-preview (31).png" />
+    <icon id="icon_blocklist" src="Button_defaul_1-removebg-preview (28).png" />
+    <icon id="icon_addfriend" src="Button_defaul_1-removebg-preview (29).png" />
+    <icon id="icon_playermet" src="Button_defaul_1-removebg-preview (39).png" />
+    <icon id="icon_chat" src="Button_defaul_1-removebg-preview (38).png" />
+    <icon id="icon_chatroom" src="Button_defaul_1-removebg-preview (1).png" />
+    <icon id="icon_mbox" src="Button_defaul_1-removebg-preview (36).png" />
+    <icon id="icon_mbox_received" src="Button_defaul_1-removebg-preview (35).png" />
+    <icon id="icon_mbox_sent" src="Button_defaul_1-removebg-preview (34).png" />
+    <icon id="icon_mbox_create" src="Button_defaul_1-removebg-preview (32).png" />
+  </icontable>
+  <bgimagetable>
+  </bgimagetable>
+  <pointertable>
+    <pointer id="pointer_arrow" src="Button_defaul_1-removebg-preview (58) (2).png" base_x="0" base_y="0" />
+    <pointer id="pointer_finger" src="Button_defaul_1-removebg-preview (58) (2).png" base_x="0" base_y="0" />
+    <pointer id="pointer_click" src="Button_defaul_1-removebg-preview (58) (2).png" base_x="0" base_y="0" />
+    <pointer id="pointer_pen" src="Button_defaul_1-removebg-preview (58) (2).png" base_x="0" base_y="0" />
+    <pointer id="pointer_hand" src="Button_defaul_1-removebg-preview (58) (2).png" base_x="0" base_y="0" />
+    <pointer id="pointer_grab" src="Button_defaul_1-removebg-preview (58) (2).png" base_x="0" base_y="0" />
+  </pointertable>
+  <font selection="2" />
+  <color selection="4" />
+</theme>
